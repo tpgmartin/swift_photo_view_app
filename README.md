@@ -1,2 +1,3 @@
-swift_photo_view_app
-====================
+# Overview
+
+This is a basic photo viewing app written in swift.
